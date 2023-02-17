@@ -9,13 +9,13 @@
 - [⚒ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage ](#usage-)
-    - [Run tests](#run-tests)
+    - [Install the Git](#install)
+    - [Open the terminal window](#open-terminal)
+    - [Clone the Repository](#clone-repo)
+    - [ Make your own changes to the code](#make-changes)
+    - [ Push your changes to the original repository](#push-changes)
+    
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -66,33 +66,27 @@ The goal of this project is to create a personal portfolio website where people 
 - **Lintrs Check**
 - **Figma**
 
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://github.com/carlosisraelsilva/Portfolio-CarlosSilva-)
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 Before we begin, please make sure you are motivated and ready to embark on this journey. Let's get started!
 
-### 1 - Install the Git
+### 1 - Install the Git <a name="install"></a>
 
 First, you'll need to have git installed on your computer. You can donload it from the offical website: https://git-scm.com.
 
-### 2 - Open the terminal window
+### 2 - Open the terminal window <a name="open-terminal"></a>
 
 Once you have the Git, open the terminal window and navigate to the diretory where you want to clone the repository.
 
-### 3 - Clone the Repository 
+### 3 - Clone the Repository <a name="clone-repo"></a> 
 
 Next, run the following command on your terminal to clone the repository: git clone https://github.com/carlosisraelsilva/Portfolio-CarlosSilva-. and Wait for the cloning process to complete.
 
-### 4 - Make your own changes to the code 
+### 4 - Make your own changes to the code <a name="make-changes"></a>
 
 Once the cloning process is complete, navigate into the newly created directory by running cd yourportfolio. Make the changes you want on the code.
 
-### 5 - Push your changes to the original repository
+### 5 - Push your changes to the original repository <a name="push-changes"></a>
 
 Congratulations! You can now push your changes back to the original repository by forking the repository first and then creating a pull request.
 I hope you had as much fun as I did.
