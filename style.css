@@ -38,8 +38,10 @@ header {
 }
 
 section {
+  display: flex;
+  flex-wrap: wrap;
   background: url(images/header-shapes\ mobile@2x.svg);
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   background-size: 100% auto;
   padding: 0 20px;
