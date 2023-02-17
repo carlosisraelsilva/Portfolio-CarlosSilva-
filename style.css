@@ -28,8 +28,8 @@ header {
 }
 
 .nav-bar {
-  width: 18px;
-  height: 12px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .menu-buttom {
@@ -57,7 +57,7 @@ section {
   margin-bottom: 10px;
   letter-spacing: 0.37px;
   padding-top: 100px;
-  color: #091e42;
+  color: #172b4d;
 }
 
 .my-work {
